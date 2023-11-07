@@ -1,0 +1,37 @@
+  /*Arquivo destinado a estilização de letras*/
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+  p{
+    text-align: center;
+    color: #777;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  legend{
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .red{
+    color: red;
+  }
+  
+  .green{
+    color:green;
+  }
+  
+  .white{
+    color: white;
+  }
+
+  .black{
+    color: black;
+  }
+
+  .blue{
+    color:blue;
+  }
+
+
+  
